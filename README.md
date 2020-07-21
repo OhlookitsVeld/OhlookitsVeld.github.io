@@ -1,2 +1,5 @@
-# ohlookitsveld.github.io
-:electric_plug: | My website's source code
+# ohlookitsveld.xyz
+> :electric_plug: **| Source code of [ohlookitsveld.xyz](https://ohlookitsveld.xyz)**
+
+## License
+**ohlookitsveld.xyz** is released under the **MIT** License, read [here](/LICENSE) for more information.
