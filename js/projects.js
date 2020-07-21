@@ -18,7 +18,19 @@ const projects = [
             }
         ],
         name: 'Misaki',
-        role: 'Lead Dev'
+        role: 'Lead Developer'
+    },
+    {
+        description: 'Discord Rich Presence for Audacity',
+        language: 'JavaScript',
+        image: 'https://i.imgur.com/IsiHJJo.png',
+        links: [
+            {
+                icon: ['fab', 'github'],
+                url: 'https://github.com/OhlookitsVeld/AudacityDiscordRPC'
+        ],
+        name: 'Audacity',
+        role: 'Developer'
     },
 ];
 
