@@ -20,7 +20,7 @@ const projects = [
         name: 'Misaki',
         role: 'Lead Developer'
     },
-    {
+    { 
         description: 'Discord Rich Presence for Audacity',
         language: 'JavaScript',
         image: 'https://i.imgur.com/IsiHJJo.png',
