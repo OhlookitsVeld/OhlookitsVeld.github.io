@@ -8,6 +8,6 @@ years.textContent = `${
 const age = document.querySelector("#age");
 age.textContent = `${
   date.getFullYear() -
-  2005 +
+  2002 +
   (date.getMonth() >= 2 ? (date.getDate() === 24 ? 1 : 0) : 0)
 } years`;
